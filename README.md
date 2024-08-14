@@ -1,5 +1,5 @@
 # 💫 About Me:
-📌 I'm currently working on developing my skills<br>📌 Looking for new projects and ideas to make it through them succesfully ♥️<br>📌 I'm a 17 years old FullStack JavaScript/NodeJS developer learning more and more every day!<br>📌 "If it can be imagined, it can be created"<br>📌 Loving to work with ReactJS, NextJS, ExpressJS, MongoDB, MySQL and all kinds of web development matters!<br>
+📌 I'm currently working on developing my skills<br>📌 Looking for new projects and ideas to make it through them succesfully ♥️<br>📌 I'm a 18 years old FullStack JavaScript/NodeJS developer learning more and more every day!<br>📌 "If it can be imagined, it can be created"<br>📌 Loving to work with ReactJS, NextJS, ExpressJS, MongoDB, MySQL and all kinds of web development matters!<br>
 
 
 ## 🌐 Socials:
