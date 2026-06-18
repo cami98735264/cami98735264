@@ -135,8 +135,10 @@ Mid-Senior Full Stack Developer with **2+ years** shipping production TypeScript
 - **Technologies:** React, DaisyUI, Express.js, express-validator
 
 ## 🎓 Education
-- **Technician in Web Programming** — Instituto Tolimense de Formación Técnica Profesional (ITFIP), 2024-2025
-  - *Applied research: AI-assisted Taekwondo movement detection seminar — published academic poster*
+- **Technologist in IT Management** — Universidad del Espinal (UniEspinal), 2025-2026
+  - *Capstone: AI-assisted Taekwondo movement detection platform (Django/Python + TypeScript/React + YOLOv8) — institutional seminar work, published academic poster*
+- **Technician in Web Programming** — Universidad del Espinal (UniEspinal), 2024-2025
+  - *Full-stack web development, databases (SQL/NoSQL), software engineering fundamentals, version control*
 - **Academic Baccalaureate** — Institución Educativa San Isidoro, 2022
   - *Recognized for achieving the highest score in the State Examination for Higher Education Quality (ICFES)*
 
