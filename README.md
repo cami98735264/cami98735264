@@ -1,125 +1,143 @@
-# Cristián Camilo Rodríguez | Full Stack Developer
+# Cristián Camilo Rodríguez | Senior Full Stack Developer · Frontend-Focused
 
 ## 👋 About Me
-Full Stack Developer with expertise in modern JavaScript ecosystems and a passion for creating efficient, scalable web applications. With a strong technical foundation and proven project experience, I specialize in building end-to-end solutions across multiple technology stacks with a focus on performance optimization and clean architecture.
+Full Stack Developer with **2+ years** shipping production TypeScript/React/Next.js platforms end-to-end — including React Native mobile, Node.js/NestJS services, Python/Django backends and Laravel admin tooling — with a frontend-heavy focus on performance, accessibility and shippable architecture.
 
-- 🔭 **Currently working on:** Expanding my skills in AI integration and cloud architecture
-- 🌱 **Learning:** Advanced TypeScript patterns and microservices architecture
-- 🌟 **Core belief:** "If it can be imagined, it can be created"
-- 🌐 **Languages:** English (B2 Upper Intermediate), Spanish (Native)
-- 💼 **Experience:** 1+ year of professional development experience
+- 🔭 **Currently shipping:** AI-driven workflows (Front, n8n, Pipedrive), Agno multi-agent systems and MCP (Model Context Protocol) servers for the 2026 agent stack
+- 🌱 **Sharpening:** React Native cross-platform UX, NestJS service architecture, and Cloudflare Workers edge patterns
+- 🌐 **Languages:** Spanish (Native, C2), English (B2 Upper Intermediate)
+- 📍 **Location:** Colombia · Remote · GMT-5
+- 💼 **Experience:** 2+ years of professional development experience across greenfield client platforms
 
 ## 🛠️ Technical Skills
 
 ### Frontend Technologies
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend Expertise
+### Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
-**NodeJS Ecosystem Proficiency:**
-- Advanced API development with Express and RESTful architecture
-- Authentication systems (OAuth2, JWT, Session-based)
-- Real-time applications with Socket.io
-- Microservices development and integration
-- Server-side rendering and optimization
-- Stream processing for efficient data handling
-- Custom middleware development
-- Performance optimization and monitoring
+**Backend depth:**
+- Production REST APIs (Express, NestJS, Django REST Framework, Laravel)
+- Auth: JWT, OAuth2, session-based, RBAC via NestJS guards
+- Real-time: WebSockets, Cloudflare Durable Objects
+- Async pipelines: Celery + workers/queues, background jobs
+- Edge compute: Cloudflare Workers + KV caching
+- Server-side rendering and route-level streaming
+
+### AI / ML & Agents
+![OpenAI](https://img.shields.io/badge/OpenAI-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D4A27F?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+- **Agno multi-agent systems** — PM agent + Prompt Builder agent design, build, refinement
+- **MCP (Model Context Protocol)** — server development for Claude Desktop / IDE agents
+- **Multi-LLM workflows** — OpenAI GPT-4, Anthropic Claude, Google Gemini routing
+- **Computer vision** — YOLOv8 license-plate & Taekwondo movement detection
+- **n8n + Front** — AI-driven ticket classification automation
 
 ### Database Technologies
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white)
 
-### DevOps & Cloud Deployment
+### DevOps, Edge & Cloud
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-**Deployment Expertise:**
-- Containerization with Docker and orchestration fundamentals
-- CI/CD pipeline implementation
-- AWS services (EC2, S3, Lambda, CloudFront)
-- Server configuration and SSH management
-- Multi-environment deployment strategies
-- Performance monitoring and optimization
-- Domain management and SSL implementation
-- Static and dynamic site hosting
-- CPanel server administration
-- Zero-downtime deployment methodologies
+### Testing & Quality
+![Cypress](https://img.shields.io/badge/cypress-%23E5E5E5.svg?style=for-the-badge&logo=cypress&logoColor=058a5e)
+![Percy](https://img.shields.io/badge/Percy-9E66BF?style=for-the-badge&logo=percy&logoColor=white)
 
-### Development Tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+- End-to-end coverage across 20+ production URLs (Cypress + Percy)
+- Visual regression gates wired into CI
+- Argo CD preview environments per PR
+- GitHub Actions pipelines averaging ~3.5 min
 
-## 💡 Core Programming Competencies
+## 💡 Core Competencies
 
-- **Architecture Design**: Expertise in designing scalable application architectures, implementing design patterns, and structuring maintainable codebases
-- **Algorithm Optimization**: Strong problem-solving skills with focus on efficient algorithm development and data structure implementation
-- **Code Quality**: Committed to writing clean, maintainable code with comprehensive test coverage and detailed documentation
-- **Security Implementation**: Deep understanding of web security principles, vulnerability prevention, and secure coding practices
-- **Performance Optimization**: Proficient in identifying and resolving performance bottlenecks through code profiling and optimization
-- **Cross-platform Development**: Experience creating solutions that work seamlessly across different environments and platforms
-- **API Integration**: Expert at designing and integrating with third-party APIs and services
-- **Responsive Design**: Skilled in creating adaptive interfaces that function optimally across all device types
-- **Debugging & Troubleshooting**: Advanced debugging techniques with systematic approach to problem resolution
-- **Version Control**: Extensive experience with Git workflows, branching strategies, and collaborative development
+- **Production reliability** — Cloudflare Workers latency optimization (>10s → ~0.5ms), bounded retries + timeouts, observability via Sentry
+- **System & architecture design** — greenfield platform delivery, edge/serverless boundaries, multi-environment deploys
+- **AI tooling fluency** — multi-agent systems, MCP server development, multi-LLM workflow orchestration
+- **Cross-platform delivery** — shared TypeScript core between web (Next.js/React) and mobile (React Native)
+- **Performance optimization** — code profiling, lazy loading, bundle splitting, perceived-perf engineering
+- **API integration** — Front, GitHub API, Pipedrive, OpenAI, Gemini, Anthropic, third-party REST/GraphQL
+- **Security** — JWT/OAuth2 flows, role-based access control, session hardening, secure-by-default headers
+- **Responsive & accessible UI** — adaptive layouts, ARIA-aware components, keyboard navigation
+- **Version control** — Git workflows, branching strategies, collaborative review
 
 ## 💼 Featured Projects
 
-### 🏆 Sports Tournament Management Platform
-- Developed a comprehensive sports tournament platform with dynamic bracket visualization
-- Implemented robust role management and secure authentication system
-- **Technologies:** React, Express.js, JWT, MongoDB
+### 🤖 Simplex Method MCP Server
+- TypeScript MCP (Model Context Protocol) server that parses LP problems from natural language
+- Returns a step-by-step XLSX with the full simplex tableau — auditable and verifiable
+- Exposes solver and parser tools to any MCP-capable client (Claude Desktop, IDE agents)
+- **Technologies:** TypeScript, MCP, Node.js
+- 🔗 [simplex-method-mcp](https://github.com/cami98735264/simplex-method-mcp)
+
+### 🥋 Taekwondo Detection Platform
+- AI-assisted movement detection platform combining Django/Python with TypeScript/React
+- Institutional research seminar work — published academic poster
+- Vision-model pipeline feeds annotated footage to a coach-facing React dashboard
+- **Technologies:** TypeScript, React, Django, Python
+- 🔗 [tkd-detection-platform-frontend](https://github.com/cami98735264/tkd-detection-platform-frontend)
+
+### 🛡️ NestJS Task Management API
+- Production-grade REST API with JWT auth, RBAC and full CRUD over PostgreSQL via TypeORM
+- Demonstrates clean NestJS module boundaries, DI and validation pipelines
+- **Technologies:** TypeScript, NestJS, PostgreSQL, TypeORM
+- 🔗 [prueba-tecnica-nestjs](https://github.com/cami98735264/prueba-tecnica-nestjs)
+
+### 📱 SWAPI React Native App
+- Cross-platform mobile wrapper around the Star Wars API
+- Themed lists, detail screens, optimistic loading, gesture-driven navigation
+- Shared TypeScript core between iOS and Android
+- **Technologies:** TypeScript, React Native
+- 🔗 [swapi-app](https://github.com/cami98735264/swapi-app)
 
 ### 🚀 AI License Plate Recognition System
-- Built software utilizing YoloV8 for automated license plate recognition
-- Created a dashboard for visualizing detection analytics and pattern analysis
-- **Technologies:** Python, AI/ML, React, Express.js
+- YOLOv8-based automated license plate recognition with behavior analytics
+- Custom-trained model on 10k+ Colombian plates — 95%+ detection accuracy
+- **Technologies:** Python, YOLOv8, React, Express.js
 
 ### 👐 Colombian Sign Language Interpreter
-- Developed an accessible platform for Colombian sign language interpretation
-- Integrated GPT-4 via OpenAI API for accurate real-time translation
+- Accessible platform for Colombian sign language interpretation
+- GPT-4 via OpenAI API for context-aware real-time translation
 - **Technologies:** React, Express.js, OpenAI API
 
-### 🤖 WhatsApp Bot with GPT-4
-- Created a context-aware chatbot leveraging GPT-4's capabilities
-- Implemented image manipulation features, sticker generation, and custom meme creation
-- **Technologies:** Node.js, whatsapp-web.js, OpenAI API
-
 ### 👨‍🎓 Graduate Tracking System
-- Built a system for tracking graduate outcomes with secure JWT authentication
-- Integrated public APIs for dynamic data retrieval
+- Institutional alumni-tracking platform with role-based dashboards
+- React + DaisyUI frontend, Express.js + JWT + express-validator backend
 - **Technologies:** React, DaisyUI, Express.js, express-validator
 
-### 🚚 Vehicle and Order Management System
-- Developed a logistics automation platform for brick factories
-- Implemented role-based authentication, vehicle management, and status tracking
-- **Technologies:** Svelte, Express.js, MongoDB
-
 ## 🎓 Education
-- **Technical Professional in Web Programming** - Instituto Tolimense de Formación Técnica Profesional (ITFIP), 2025
-- **Academic Baccalaureate** - Institución Educativa San Isidoro, 2022
+- **Technician in Web Programming** — Instituto Tolimense de Formación Técnica Profesional (ITFIP), 2024-2025
+  - *Applied research: AI-assisted Taekwondo movement detection seminar — published academic poster*
+- **Academic Baccalaureate** — Institución Educativa San Isidoro, 2022
   - *Recognized for achieving the highest score in the State Examination for Higher Education Quality (ICFES)*
 
 ## 📊 GitHub Stats
@@ -131,12 +149,13 @@ Full Stack Developer with expertise in modern JavaScript ecosystems and a passio
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cristián-camilo-rodríguez-montealegre-8a8697272)
 - 📧 **Email:** mashlowtm0510@gmail.com
 - 📱 **Phone:** +57 318-656-2061
-- 🌎 **Location:** Espinal, Tolima, Colombia
+- 🌎 **Location:** Colombia · Remote · GMT-5
+- 🌐 **Portfolio:** [crodriguez.com.co](https://crodriguez.com.co)
 
 ---
 
 <div align="center">
-  
+
 ### "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler
 
 </div>
