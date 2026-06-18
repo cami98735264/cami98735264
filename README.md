@@ -1,7 +1,7 @@
-# Cristián Camilo Rodríguez | Senior Full Stack Developer · Frontend-Focused
+# Cristián Camilo Rodríguez | Full Stack Developer · Frontend-Focused
 
 ## 👋 About Me
-Full Stack Developer with **2+ years** shipping production TypeScript/React/Next.js platforms end-to-end — including React Native mobile, Node.js/NestJS services, Python/Django backends and Laravel admin tooling — with a frontend-heavy focus on performance, accessibility and shippable architecture.
+Mid-Senior Full Stack Developer with **2+ years** shipping production TypeScript/React/Next.js platforms end-to-end — including React Native mobile, Node.js/NestJS services, Python/Django backends and Laravel admin tooling — with a frontend-heavy focus on performance, accessibility and shippable architecture.
 
 - 🔭 **Currently shipping:** AI-driven workflows (Front, n8n, Pipedrive), Agno multi-agent systems and MCP (Model Context Protocol) servers for the 2026 agent stack
 - 🌱 **Sharpening:** React Native cross-platform UX, NestJS service architecture, and Cloudflare Workers edge patterns
