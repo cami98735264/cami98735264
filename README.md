@@ -137,6 +137,7 @@ Mid-Senior Full Stack Developer with **2+ years** shipping production TypeScript
 ## 🎓 Education
 - **Technologist in IT Management** — Universidad del Espinal (UniEspinal), 2025-2026
   - *Capstone: AI-assisted Taekwondo movement detection platform (Django/Python + TypeScript/React + YOLOv8) — institutional seminar work, published academic poster*
+  - *Coursework: database design, systems analysis and design, operations research (linear programming → fed the Simplex Method MCP Server), systems modeling, information systems audit*
 - **Technician in Web Programming** — Universidad del Espinal (UniEspinal), 2024-2025
   - *Full-stack web development, databases (SQL/NoSQL), software engineering fundamentals, version control*
 - **Academic Baccalaureate** — Institución Educativa San Isidoro, 2022
