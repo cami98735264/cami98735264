@@ -153,7 +153,7 @@ Mid-Senior Full Stack Developer with **2+ years** shipping production TypeScript
 - 📧 **Email:** mashlowtm0510@gmail.com
 - 📱 **Phone:** +57 318-656-2061
 - 🌎 **Location:** Colombia · Remote · GMT-5
-- 🌐 **Portfolio:** [crodriguez.com.co](https://crodriguez.com.co)
+- 🌐 **Portfolio:** [cami98735264.github.io](https://cami98735264.github.io)
 
 ---
 
