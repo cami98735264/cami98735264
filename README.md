@@ -1,7 +1,7 @@
 # Cristián Camilo Rodríguez | Full Stack Developer · Frontend-Focused
 
 ## 👋 About Me
-Mid-Senior Full Stack Developer with **2+ years** shipping production TypeScript/React/Next.js platforms end-to-end — including React Native mobile, Node.js/NestJS services, Python/Django backends and Laravel admin tooling — with a frontend-heavy focus on performance, accessibility and shippable architecture.
+Mid-Senior Full Stack Developer with **2+ years** shipping production TypeScript/React/Next.js platforms end-to-end — including React Native mobile, Node.js/Express services, Python/Django backends and Laravel admin tooling — with a frontend-heavy focus on performance, accessibility and shippable architecture.
 
 - 🔭 **Currently shipping:** AI-driven workflows (Front, n8n, Pipedrive), Agno multi-agent systems and MCP (Model Context Protocol) servers for the 2026 agent stack
 - 🌱 **Sharpening:** React Native cross-platform UX, NestJS service architecture, and Cloudflare Workers edge patterns
@@ -26,15 +26,14 @@ Mid-Senior Full Stack Developer with **2+ years** shipping production TypeScript
 ### Backend & Frameworks
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 **Backend depth:**
-- Production REST APIs (Express, NestJS, Django REST Framework, Laravel)
-- Auth: JWT, OAuth2, session-based, RBAC via NestJS guards
+- Production REST APIs (Node.js/Express, Django REST Framework, Laravel) and edge APIs on Cloudflare Workers
+- Auth: JWT, OAuth2, session-based, role-based access control
 - Real-time: WebSockets, Cloudflare Durable Objects
 - Async pipelines: Celery + workers/queues, background jobs
 - Edge compute: Cloudflare Workers + KV caching
